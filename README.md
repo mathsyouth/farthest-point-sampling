@@ -11,8 +11,8 @@ Two demos are avaible in this repo:
 
 ## Install Dependencies:
 ```
-conda install numpy
-conda install -c open3d-admin open3d=0.7
+pip install numpy
+pip install open3d==0.15.1
 ```
 
 ## Usage
